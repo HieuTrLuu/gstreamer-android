@@ -3,3 +3,5 @@ https://gstreamer.freedesktop.org/documentation/tutorials/android/index.html?gi-
 
 # NDK examples
 https://github.com/android/ndk-samples
+NNAPI example
+https://github.com/android/ndk-samples/tree/main/nn-samples
